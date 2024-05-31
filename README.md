@@ -1,4 +1,4 @@
-# 關於我在養和成為IT vendor的這檔事
+# 關於我在XX成為IT vendor的這檔事
 ## 背景
 本人是一個做左十年有多而又乜都唔識的又無得升職揼石仔的Software Engineer，而又中意守水堂嗰D人，是咁的，我係係一間都唔知係咪叫做Vendor既嘅公司做Senior Consultant(下稱SC)，原本都9 fing fing，hea下hea下又一日，你都咪話都真係幾爽下。
 有一日，地公司有個Manager R姐，想搵我落去個Project 幫手啦，咁公司D人就叫我做T啦。
